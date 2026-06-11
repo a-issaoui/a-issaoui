@@ -61,11 +61,12 @@ first-class SEO (JSON-LD/sitemap/robots). Build-verified.
 
 Production platforms delivered through **M3Soft** (architecture · backend · frontend · deployment):
 
+- **Carthage Catering** — catering platform for a Los Angeles client · *Next.js 16 · React 19 · Three.js · GSAP · Supabase*
+- **M3Soft** — agency site with 3D hero + full SEO engine · *Next.js 16 · React 19 · Three.js · Framer Motion · Prisma* — [m3soft.tn](https://www.m3soft.tn)
 - **Sabra FM** — site + CMS for Tunisia's 3rd-largest radio station · *Nuxt · Laravel* — [radiosabrafm.net](https://www.radiosabrafm.net)
 - **IFMS (GTSP)** — fleet-management system for a transport company · *Vue · Laravel* — [ifms.gtsp.tn](https://www.ifms.gtsp.tn)
 - **Educasoft** — school-management platform (primary & high school) · *CodeIgniter* — [ennour.madrasa.tn](https://www.ennour.madrasa.tn)
-- **Railconcept** — site for a French rail company (via Studio Gazoline) · *Jekyll* — [railconcept.fr](https://www.railconcept.fr)
-- **PFE.tn** · **BookingRose** (Qatar) · **M3Soft** — additional Laravel / Nuxt platforms
+- **Railconcept** (France, via Studio Gazoline) · **PFE.tn** · **BookingRose** (Qatar) — additional Jekyll / Laravel platforms
 
 ---
 
