@@ -1,6 +1,6 @@
 # Hi, I'm Abdelhamid Issaoui 👋
 
-**Software Engineer — AI Systems · Backend Infrastructure · Full-Stack Platforms**
+**Software Engineer — AI Infrastructure & Backend Systems**
 
 I build across the stack — from AI retrieval engines and local LLM infrastructure to
 high-performance Go systems, HA database clusters, and production web platforms. I like
