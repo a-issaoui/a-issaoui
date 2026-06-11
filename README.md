@@ -2,52 +2,72 @@
 
 **Software Engineer — AI Systems · Backend Infrastructure · Full-Stack Platforms**
 
-I build systems across the stack: AI retrieval and LLM infrastructure, high-performance
-backend services in Go, low-level networking, and GPU rendering — backed by years of
-production web and SaaS delivery.
+I build across the stack — from AI retrieval engines and local LLM infrastructure to
+high-performance Go systems, HA database clusters, and production web platforms. I like
+owning a system end to end: the retrieval algorithm *and* the inference server *and* the
+database cluster it runs on. Eight years shipping production software for clients, now
+focused on AI systems and backend infrastructure.
+
+📍 Tunisia · Open to Remote (US / Global) · 📧 a.issaoui@aol.co.uk
 
 ---
 
-### 🔭 Featured work
+### 🧠 AI Systems
 
 **[coderag](https://github.com/a-issaoui/coderag)** — *scry* · Python
-Local-first, multi-language code retrieval. Fuses semantic (embeddings), lexical (BM25),
-and structural-graph search via Reciprocal Rank Fusion. Framework-aware (Django, FastAPI,
-React, Next.js, Spring, net/http) and exposed as an MCP server.
+Local-first, multi-language code retrieval. Fuses dense embeddings + BM25 + a structural
+code graph via Reciprocal Rank Fusion; framework-aware across 6 languages; MCP-native.
 
 **[llm-inference-server](https://github.com/a-issaoui/llm-inference-server)** — Python · FastAPI
 OpenAI-compatible local LLM server for GGUF models: dynamic VRAM management, GPU-first
 loading with a serialized request queue, persistent sessions, tool calling, Prometheus metrics.
 
+### ⚙️ Systems / Go
+
 **[tcp-phantom](https://github.com/a-issaoui/tcp-phantom)** — Go
-A userspace TCP/IP stack built from scratch — handshake state machine, retransmission,
-options, checksums — with TLS and HTTP layers and per-OS fingerprint personas.
+Userspace TCP/IP stack from scratch — handshake state machine, retransmission, options,
+checksums — with TLS + HTTP layers and per-OS fingerprint personas.
 
 **[goscrub](https://github.com/a-issaoui/goscrub)** — Go
-Fast, low-allocation PII/secret scrubbing for logging pipelines. Aho-Corasick prefiltering,
-buffer pooling, 214 built-in patterns; allocation-free on the clean-message path.
+Low-allocation PII/secret scrubbing: Aho-Corasick prefiltering, pooling, 214 patterns;
+allocation-free clean path (~150 ns/op, 0 allocs in benchmarks). Full tests + CI.
 
 **[herolog](https://github.com/a-issaoui/herolog)** — Go
-Zero-allocation structured logging for CloudWeGo Hertz — a drop-in `hlog` replacement with
-Aho-Corasick scrubbing, diode non-blocking buffering, file rotation, and Prometheus metrics.
+Zero-allocation structured logging for CloudWeGo Hertz — drop-in `hlog` replacement with
+Aho-Corasick scrubbing, diode buffering, rotation, Prometheus metrics.
+
+### 🛠️ Infrastructure / DevOps
+
+**[postgres-ha](https://github.com/a-issaoui/postgres-ha)** — Docker / Infra
+Self-hosted HA PostgreSQL cluster: `repmgr` streaming replication + auto-failover, `pgpool`
+load balancing, `pgbouncer` pooling, per-node Prometheus exporters.
+
+### 🎨 Rendering / Frontend
 
 **[universal-msdf-generator](https://github.com/a-issaoui/universal-msdf-generator)** — TypeScript · WASM · *npm*
-MSDF font-asset generator for GPU text rendering. msdfgen compiled to WASM, AngelCode/PixiJS
-output, Google Fonts/WOFF2 fetching, and complex-script (Arabic/HarfBuzz) shaping.
+MSDF font-asset generator for GPU text rendering — msdfgen→WASM, PixiJS output, Arabic/HarfBuzz shaping.
+
+**[carthage-template](https://github.com/a-issaoui/carthage-template)** — Next.js 16 · React 19 · Tailwind v4
+Production-grade marketing-site template: block-based architecture, typed content layer,
+first-class SEO (JSON-LD/sitemap/robots). Build-verified.
+
+**[pretext-rendering-stack](https://github.com/a-issaoui/pretext-rendering-stack)** — TypeScript · WebGL
+5-layer GPU rendering engine on PixiJS with a React-like Fiber reconciler and Flutter-style layout.
 
 ---
 
-### 🛠️ Tech
+### 🧰 Tech
 
-`Go` · `Python` · `TypeScript`
-**Backend/infra:** FastAPI · gRPC/HTTP · PostgreSQL · Redis · Docker · Prometheus/Grafana
-**AI:** RAG · embeddings · LLM serving (llama.cpp) · MCP · agent frameworks
-**Frontend:** Next.js · React · Three.js / WebGL · PixiJS
+**Languages:** `Go` · `Python` · `TypeScript` · `JavaScript` · `SQL` · `PHP`
+**AI/Systems:** RAG (vector + BM25 + graph) · MCP · embeddings · llama.cpp / GGUF serving · multi-agent
+**Backend:** REST · microservices · low-allocation Go · Node.js (Express/Fastify) · Laravel
+**Frontend:** Next.js · React 19 · Tailwind · Vue/Nuxt · WebGL (PixiJS/Three.js) · WASM
+**Data/Infra:** PostgreSQL (HA: repmgr/pgpool/pgbouncer) · MySQL · MongoDB · Docker · Prometheus/Grafana · Linux
 
 ---
 
 ### 📫 Reach me
 
-- Email: **a.issaoui@aol.co.uk**
-- GitHub: [@a-issaoui](https://github.com/a-issaoui)
+- 📧 **a.issaoui@aol.co.uk**
+- 🔗 [github.com/a-issaoui](https://github.com/a-issaoui)
 <!-- LinkedIn: add once your profile is live -->
