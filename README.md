@@ -5,7 +5,7 @@
 I build across the stack — from AI retrieval engines and local LLM infrastructure to
 high-performance Go systems, HA database clusters, and production web platforms. I like
 owning a system end to end: the retrieval algorithm *and* the inference server *and* the
-database cluster it runs on. 8+ years of professional software engineering across backend
+database cluster it runs on. 8+ years of software engineering across backend
 systems, SaaS platforms, and infrastructure tools — now focused on AI systems and backend
 infrastructure.
 
