@@ -57,6 +57,18 @@ first-class SEO (JSON-LD/sitemap/robots). Build-verified.
 
 ---
 
+### 💼 Client & Product Work
+
+Production platforms delivered through **M3Soft** (architecture · backend · frontend · deployment):
+
+- **Sabra FM** — site + CMS for Tunisia's 3rd-largest radio station · *Nuxt · Laravel* — [radiosabrafm.net](https://www.radiosabrafm.net)
+- **IFMS (GTSP)** — fleet-management system for a transport company · *Vue · Laravel* — [ifms.gtsp.tn](https://www.ifms.gtsp.tn)
+- **Educasoft** — school-management platform (primary & high school) · *CodeIgniter* — [ennour.madrasa.tn](https://www.ennour.madrasa.tn)
+- **Railconcept** — site for a French rail company (via Studio Gazoline) · *Jekyll* — [railconcept.fr](https://www.railconcept.fr)
+- **PFE.tn** · **BookingRose** (Qatar) · **M3Soft** — additional Laravel / Nuxt platforms
+
+---
+
 ### 🧰 Tech
 
 **Languages:** `Go` · `Python` · `TypeScript` · `JavaScript` · `SQL` · `PHP`
