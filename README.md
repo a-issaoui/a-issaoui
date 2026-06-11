@@ -83,5 +83,5 @@ Production platforms delivered through **M3Soft** (architecture · backend · fr
 ### 📫 Reach me
 
 - 📧 **a.issaoui@aol.co.uk**
+- 💼 [linkedin.com/in/abdel-issaoui](https://www.linkedin.com/in/abdel-issaoui)
 - 🔗 [github.com/a-issaoui](https://github.com/a-issaoui)
-<!-- LinkedIn: add once your profile is live -->
